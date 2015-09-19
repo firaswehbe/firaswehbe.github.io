@@ -1,0 +1,15 @@
+# Site settings
+title: Firas H. Wehbe, MD, PhD
+email: firas.wehbe@northwestern.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Biomedical Informatics professional. I am faculty at Northwestern University
+  Feinberg School of Medicine where oversee Clinical Research Informatics
+  infrastructure and research projects. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://firaswehbe.github.io" # the base hostname & protocol for your site
+twitter_username: fhwehbe
+github_username: firaswehbe
+timezone: America/Chicago
+
+# Build settings
+markdown: kramdown
