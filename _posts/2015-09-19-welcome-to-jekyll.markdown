@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-09-19 14:46:20
 categories: jekyll update
+author: Firas Wehbe
 ---
 This is the first "post" on this website. I am building it using
 [Jekyll][jekyll]. So far installing and running the `gh-pages` gem makes it easy
